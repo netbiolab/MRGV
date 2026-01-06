@@ -32,10 +32,10 @@ You can also access and browsing the data and information of MRGV in https://www
 | Data |Description| Link |
 | --- | --- | --- |
 |**MRGV_PC_ID100.tar.gz**|A total of 1,376,499 CDS and metadata, clusterd with 100% AAI|[Click to download (223.4MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID100.tar.gz)|
-|**MRGV PC90 DB.tar.gz**|A total of 954,585 CDS and metadata, clusterd with 90% AAI|[Click to download (147.5.4MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID90.tar.gz)|
-|**MRGV PC70 DB.tar.gz**|A total of 746,733 CDS and metadata, clusterd with 70% AAI|[Click to download (115.9.4MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID70.tar.gz)|
-|**MRGV PC50 DB.tar.gz**|A total of 652,176 CDS and metadata, clusterd with 70% AAI|[Click to download (102.0MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID50.tar.gz)|
-|**MRGV PC30 DB.tar.gz**|A total of 625,774 CDS and metadata, clusterd with 70% AAI|[Click to download (97.3MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID50.tar.gz)|
+|**MRGV_PC_ID90 DB.tar.gz**|A total of 954,585 CDS and metadata, clusterd with 90% AAI|[Click to download (147.5.4MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID90.tar.gz)|
+|**MRGV_PC_ID70 DB.tar.gz**|A total of 746,733 CDS and metadata, clusterd with 70% AAI|[Click to download (115.9.4MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID70.tar.gz)|
+|**MRGV_PC_ID50 DB.tar.gz**|A total of 652,176 CDS and metadata, clusterd with 70% AAI|[Click to download (102.0MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID50.tar.gz)|
+|**MRGV_PC_ID30 DB.tar.gz**|A total of 625,774 CDS and metadata, clusterd with 70% AAI|[Click to download (97.3MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID50.tar.gz)|
 
 ### 04. Kraken2 DB
 | Data |Description| Link |
