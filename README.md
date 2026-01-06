@@ -18,11 +18,11 @@ You can also access the data and information of MRGV in https://www.decodebiome.
 ## Contents
 ### 01.Metadata
 > * **MRGV_Representative_Metadata.tsv**
->   Metadata for MRGV 28,824 species-level vOTUs
+>   [Click to download (8.5MB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_Representative_Metadata.tsv)
 > * **MRGV_METADATA_ALL_GENOMES.csv**
->   Metadata for All MRGV 109,778 non-redundant vMAGs
+>   [Click to download (28.0MB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_All_Genomes_Metadata.tsv)
 
-### 01.Metadata
+### 01.Genomes
 > * **28,824 Representative vMAGs of MRGV species-level vOTUs**
 >   [Click to bulk download (475.8MB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_Representative_Genomes.tar.gz)
 > * **109,778 vMAGs of MRGV All vMAGs**
