@@ -15,11 +15,18 @@ You can also access the data and information of MRGV in https://www.decodebiome.
 ## MRGV construction pipeline
 <img width="5938" height="3297" alt="Nevigation tab_notab" src="https://github.com/user-attachments/assets/f270b077-0e91-4d08-982d-4bcbe02a297f" />
 
-## Contents of repository
+## Contents
 ### 01.Metadata
 > * **MRGV_Representative_Metadata.tsv**
 >   Metadata for MRGV 28,824 species-level vOTUs
 > * **MRGV_METADATA_ALL_GENOMES.csv**
+>   Metadata for All MRGV 109,778 non-redundant vMAGs
+
+### 01.Metadata
+> * **28,824 Representative vMAGs of MRGV species-level vOTUs**
+>   [Click to bulk download (475.8MB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_Representative_Genomes.tar.gz)
+> * **109,778 vMAGs of MRGV All vMAGs**
+>   [Click to bulk download (1.3GB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_All_Genomes.tar.gz)
 >   Metadata for All MRGV 109,778 non-redundant vMAGs
 
 ## Citation
