@@ -3,6 +3,11 @@
 <img width="60%" height="60%" alt="Logo" src="https://github.com/user-attachments/assets/661876a0-836d-4320-a82d-5d3118e0b3a5" /> 
 
 # MRGV: Mouse Gut Reference Virome
+>   As mouse gut viome cagalog, the MRGM provides 109,778 high-confident viral genomes represented by 28,824 sepceis-level vOTUs and >1.3 million of non-redundant viral protein sequences with structural informed PHROG annotations.
+
+You can also access the data and information of MRGV in https://www.decodebiome.org/MRGV/
+
+
 ## Overview of MRGV
 #### MRGV consists of 109,778 high-confidence vMAGs, represented by 28,824 species-level vOTUs
 <img width="80%" height="80%" alt="Main_page3" src="https://github.com/user-attachments/assets/9a4e73f0-89bc-4585-b975-4952a53fe3cc" />
