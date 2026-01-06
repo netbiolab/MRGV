@@ -5,7 +5,7 @@
 # MRGV: Mouse Gut Reference Virome
 As mouse gut viome cagalog, the MRGM provides 109,778 high-confident viral genomes represented by 28,824 sepceis-level vOTUs and >1.3 million of non-redundant viral protein sequences with structural informed PHROG annotations.
 
-You can also access the data and information of MRGV in https://www.decodebiome.org/MRGV/
+You can also access and browsing the data and information of MRGV in https://www.decodebiome.org/MRGV/
 
 
 ## Overview of MRGV
