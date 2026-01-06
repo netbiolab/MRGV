@@ -44,5 +44,5 @@ You can also access and browsing the data and information of MRGV in https://www
 |**MRGV_All_Variant_kraken2DB.tar.gz**|Kraken2 DB for 109,778 All vMAGs|[Click to download (426.8MB)](https://www.decodebiome.org/MRGV/data/kraken2_db/MRGV_All_Variant_kraken2DB.tar.gz)|
 
 ## Citation
->   Kim, H.J. et al (2026). A reference genomic catalog of the mouse gut virome enables a high-accuracy aging clock _in preparation_
+>   Kim, H.J. et al (2026). Incorporating viral genome binning in a mouse gut virome catalog enables accurate age prediction _in preparation_
 
