@@ -14,6 +14,6 @@
 ### 01.Metadata
 > * **MRGV_Representative_Metadata.tsv**
 >   Metadata for MRGV 28,824 species-level vOTUs
->   **MRGV_METADATA_ALL_GENOMES.csv**
+> * **MRGV_METADATA_ALL_GENOMES.csv**
 >   Metadata for All MRGV 109,778 non-redundant vMAGs
 
