@@ -6,6 +6,9 @@
 As mouse gut viome cagalog, the MRGM provides 109,778 high-confident viral genomes represented by 28,824 sepceis-level vOTUs and >1.3 million of non-redundant viral protein sequences with structural informed PHROG annotations.
 
 You can also access and browsing the data and information of MRGV in https://www.decodebiome.org/MRGV/
+#### Citation
+>   Kim, H.J. et al (2026). Incorporating viral genome binning in a mouse gut virome catalog enables accurate age prediction _in preparation_
+
 
 
 ## Overview of MRGV
@@ -42,7 +45,4 @@ You can also access and browsing the data and information of MRGV in https://www
 | --- | --- | --- |
 |**MRGV_Repr_Kraken2DB.tar.gz**|Kraken2 DB for 28,824 representative vMAGs|[Click to download (408.9MB)](https://www.decodebiome.org/MRGV/data/kraken2_db/MRGV_Repr_Kraken2DB.tar.gz)|
 |**MRGV_All_Variant_kraken2DB.tar.gz**|Kraken2 DB for 109,778 All vMAGs|[Click to download (426.8MB)](https://www.decodebiome.org/MRGV/data/kraken2_db/MRGV_All_Variant_kraken2DB.tar.gz)|
-
-## Citation
->   Kim, H.J. et al (2026). Incorporating viral genome binning in a mouse gut virome catalog enables accurate age prediction _in preparation_
 
