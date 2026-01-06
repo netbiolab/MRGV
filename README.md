@@ -17,3 +17,7 @@
 > * **MRGV_METADATA_ALL_GENOMES.csv**
 >   Metadata for All MRGV 109,778 non-redundant vMAGs
 
+## Citation
+### Citation
+>   Kim, H.J. et al (2026). A reference genomic catalog of the mouse gut virome enables a high-accuracy aging clock in preparation
+
