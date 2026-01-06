@@ -15,7 +15,7 @@ You can also access and browsing the data and information of MRGV in https://www
 ## MRGV construction pipeline
 <img width="5938" height="3297" alt="Nevigation tab_notab" src="https://github.com/user-attachments/assets/f270b077-0e91-4d08-982d-4bcbe02a297f" />
 
-## Contents
+## MRGV Data
 ### 01. Metadata
 | Data |Description| Link |
 | --- | --- | --- |
