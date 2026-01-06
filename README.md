@@ -27,7 +27,6 @@ You can also access the data and information of MRGV in https://www.decodebiome.
 >   [Click to bulk download (475.8MB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_Representative_Genomes.tar.gz)
 > * **109,778 vMAGs of MRGV All vMAGs**
 >   [Click to bulk download (1.3GB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_All_Genomes.tar.gz)
->   Metadata for All MRGV 109,778 non-redundant vMAGs
 
 ## Citation
 ### Citation
