@@ -28,7 +28,7 @@ MRGV provides 109,778 high-confidence viral genomes representing 28,824 species-
 ### 02. MRGV Genomes
 | Data |Description| Link |
 | --- | --- | --- |
-|**MRGV_Representative_Genomes.tar.gz**|The28,824 Representative vMAGs|[Click to download (475.8MB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_Representative_Genomes.tar.gz)|
+|**MRGV_Representative_Genomes.tar.gz**|28,824 Representative vMAGs|[Click to download (475.8MB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_Representative_Genomes.tar.gz)|
 |**MRGV_All_Genomes.tar.gz**|109,778 vMAGs of MRGV All vMAGs|[Click to download (1.3GB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_All_Genomes.tar.gz)|
 
 ### 03. MRGV Protein clusters
