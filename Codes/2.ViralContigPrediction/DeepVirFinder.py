@@ -36,6 +36,34 @@ def run_dvf(ctg_name, cohort, ctg_path, threads, sv_dir):
                 f.write("%s\n%s\n" % (header, seq))
         f.close()
 
+## Concatenate multiple sequences lines of a single contig into one line of sequences
+def refine_ctg(ctg_path):
+    new_ctg = []
+    new_ctg_dict = {}
+    idx = 0
+    ctg = [i.strip() for i in open(ctg_path)]
+    for n, l in enumerate(ctg):
+        if n ==0 and l.startswith(">"):
+            l = "_".join(l.split())
+            new_ctg.append(l)
+        elif n != 0 and l.startswith(">"):
+            l = "_".join(l.split())
+            seq = "".join(ctg[idx+1:n])
+            new_ctg.append(seq)
+            new_ctg.append(l)
+            idx = n
+        elif n == (len(ctg)-1):
+            seq = "".join(ctg[idx+1:])
+            new_ctg.append(seq)
+    for h, s in zip(new_ctg[::2], new_ctg[1::2]):
+        if not h.startswith(">"):
+            raise ValueError(h)
+        elif ">" in s:
+            raise ValueError(s)
+        else:
+            new_ctg_dict[h] = s
+    return new_ctg_dict
+
 def main(sub_ctg_tsv, sv_dir, threads):
     ## Unifying assembly name format
     for idx in sub_ctg_tsv.index:
@@ -59,4 +87,4 @@ if __name__ == "__main__":
     interval_ = int(sys.argv[5])
     ## Split queries into chuncks
     sub_ctg_tsv = ctg_tsv.iloc[from_::interval_, :]
-    main(sub_ctg_tsv, sv_dir, threads, tool)
+    main(sub_ctg_tsv, sv_dir, threads)
