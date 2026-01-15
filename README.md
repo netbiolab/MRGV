@@ -46,7 +46,7 @@ MRGV provides 109,778 high-confidence viral genomes representing 28,824 species-
 |**MRGV_Repr_Kraken2DB.tar.gz**|Kraken2 DB for 28,824 representative vMAGs|[Click to download (408.9MB)](https://www.decodebiome.org/MRGV/data/kraken2_db/MRGV_Repr_Kraken2DB.tar.gz)|
 |**MRGV_All_Variant_kraken2DB.tar.gz**|Kraken2 DB for 109,778 All vMAGs|[Click to download (426.8MB)](https://www.decodebiome.org/MRGV/data/kraken2_db/MRGV_All_Variant_kraken2DB.tar.gz)|
 
-## Codes
+## Scripts for MRGV anlaysis
 ### 0.QualityControl
 * HumanDecontamination.py : Removal human reads using bowtie2
 * Trimmomatic.py : Trimming adaptors and filter low qualited reads using Trimmomatic
