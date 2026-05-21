@@ -23,13 +23,13 @@ MRGV provides 109,778 high-confidence viral genomes representing 28,824 species-
 | Data |Description| Link |
 | --- | --- | --- |
 |**MRGV_Representative_Metadata.tsv**|Metadata for 28,824 representative vMAGs|[Click to download (8.5MB)](https://zenodo.org/records/20115989/files/MRGV_Representative_Metadata.tsv?download=1)|
-|**MRGV_METADATA_ALL_GENOMES.csv**|Metadata for 109,778 All vMAGs|[Click to download (28.0MB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_All_Genomes_Metadata.tsv)|
+|**MRGV_METADATA_ALL_GENOMES.csv**|Metadata for 109,778 All vMAGs|[Click to download (23.3MB)](https://zenodo.org/records/20115989/files/MRGV_All_Genomes_Metadata.tsv?download=1)|
 
 ### 02. MRGV Genomes
 | Data |Description| Link |
 | --- | --- | --- |
-|**MRGV_Representative_Genomes.tar.gz**|28,824 Representative vMAGs|[Click to download (475.8MB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_Representative_Genomes.tar.gz)|
-|**MRGV_All_Genomes.tar.gz**|109,778 vMAGs of MRGV All vMAGs|[Click to download (1.3GB)](https://www.decodebiome.org/MRGV/data/genome_catalog/MRGV_All_Genomes.tar.gz)|
+|**MRGV_Representative_Genomes.tar.gz**|28,824 Representative vMAGs|[Click to download (498.9MB)](https://zenodo.org/records/20115989/files/MRGV_Representative_Genomes.tar.gz?download=1)|
+|**MRGV_All_Genomes.tar.gz**|109,778 vMAGs of MRGV All vMAGs|[Click to download (1.4GB)](https://zenodo.org/records/20115989/files/MRGV_All_Genomes.tar.gz?download=1)|
 
 ### 03. MRGV Protein clusters
 | Data |Description| Link |
