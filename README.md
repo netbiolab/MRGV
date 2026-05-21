@@ -34,17 +34,18 @@ MRGV provides 109,778 high-confidence viral genomes representing 28,824 species-
 ### 03. MRGV Protein clusters
 | Data |Description| Link |
 | --- | --- | --- |
-|**MRGV_PC_ID100.tar.gz**|A total of 1,376,499 CDS and metadata, clusterd with 100% AAI|[Click to download (223.4MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID100.tar.gz)|
-|**MRGV_PC_ID90 DB.tar.gz**|A total of 954,585 CDS and metadata, clusterd with 90% AAI|[Click to download (147.5.4MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID90.tar.gz)|
-|**MRGV_PC_ID70 DB.tar.gz**|A total of 746,733 CDS and metadata, clusterd with 70% AAI|[Click to download (115.9.4MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID70.tar.gz)|
-|**MRGV_PC_ID50 DB.tar.gz**|A total of 652,176 CDS and metadata, clusterd with 70% AAI|[Click to download (102.0MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID50.tar.gz)|
-|**MRGV_PC_ID30 DB.tar.gz**|A total of 625,774 CDS and metadata, clusterd with 70% AAI|[Click to download (97.3MB)](https://www.decodebiome.org/MRGV/data/protein_catalog/MRGV_PC_ID50.tar.gz)|
+|**MRGV_PC_ID100.tar.gz**|A total of 1,376,499 CDS and metadata, clusterd with 100% AAI|[Click to download (234.3MB)](https://zenodo.org/records/20115989/files/MRGV_PC_ID100.tar.gz?download=1)|
+|**MRGV_PC_ID90 DB.tar.gz**|A total of 954,585 CDS and metadata, clusterd with 90% AAI|[Click to download (154.6MB)](https://zenodo.org/records/20115989/files/MRGV_PC_ID90.tar.gz?download=1)|
+|**MRGV_PC_ID70 DB.tar.gz**|A total of 746,733 CDS and metadata, clusterd with 70% AAI|[Click to download (121.6MB)](https://zenodo.org/records/20115989/files/MRGV_PC_ID70.tar.gz?download=1)|
+|**MRGV_PC_ID50 DB.tar.gz**|A total of 652,176 CDS and metadata, clusterd with 70% AAI|[Click to download (107.0MB)](https://zenodo.org/records/20115989/files/MRGV_PC_ID50.tar.gz?download=1)|
+|**MRGV_PC_ID30 DB.tar.gz**|A total of 625,774 CDS and metadata, clusterd with 70% AAI|[Click to download (102.1MB)](https://zenodo.org/records/20115989/files/MRGV_PC_ID30.tar.gz?download=1)|
 
 ### 04. Kraken2 DB
 | Data |Description| Link |
 | --- | --- | --- |
-|**MRGV_Repr_Kraken2DB.tar.gz**|Kraken2 DB for 28,824 representative vMAGs|[Click to download (408.9MB)](https://www.decodebiome.org/MRGV/data/kraken2_db/MRGV_Repr_Kraken2DB.tar.gz)|
-|**MRGV_All_Variant_kraken2DB.tar.gz**|Kraken2 DB for 109,778 All vMAGs|[Click to download (426.8MB)](https://www.decodebiome.org/MRGV/data/kraken2_db/MRGV_All_Variant_kraken2DB.tar.gz)|
+|**MRGV_Repr_Kraken2DB.tar.gz**|Kraken2 DB for 28,824 representative vMAGs|[Click to download (1.5GB)](https://zenodo.org/records/20115989/files/MRGV_Repr_Kraken2DB.tar.gz?download=1)|
+|**MRGV_All_Variant_kraken2DB.tar.gz**|Kraken2 DB for 109,778 All vMAGs|[Click to download (3.4GB)](https://zenodo.org/records/20115989/files/MRGV_All_Variant_kraken2DB.tar.gz?download=1)|
+|**MRGV_MGBC_Combined_kraken2DB.tar.gz**|Kraken2 DB for 28,824 MRGV Repr vMAG + 26,640 MGBC Strain vMAGs|[Click to download (8.5GB)](https://zenodo.org/records/20115989/files/MGBC_26640_CONCAT_MRGV_REPR_kraken2DB.tar.gz?download=1)|
 
 
 ## Scripts for MRGV anlaysis (Directory: Codes)
