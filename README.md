@@ -5,7 +5,7 @@
 # MRGV: Mouse Reference Gut Virome
 MRGV provides 109,778 high-confidence viral genomes representing 28,824 species-level vOTUs, together with over 46% of 1.3 million non-redundant viral protein sequences annotated using structure-informed PHROG assignments.
 
-**You can access and browse all MRGV data and information in https://www.decodebiome.org/MRGV/**
+**You can access and browse all MRGV data and information in https://doi.org/10.5281/zenodo/20115989**
 #### Citation
 >   Kim, H.J. et al (2026). Incorporating viral genome binning in a mouse gut virome catalog enables accurate age prediction _in preparation_
 
