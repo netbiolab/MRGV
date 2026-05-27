@@ -22,6 +22,8 @@ This YAML file should be uploaded together with this directory if you want users
 |**MGBC_Bacteria_All_features_Cage_grouped_Age_regression_Res.tar.gz**|Predictions using MGBC All genus features |[Click to download (3.9MB)](https://zenodo.org/records/20405195/files/MGBC_Bacteria_All_features_Cage_grouped_Age_regression_Res.tar.gz?download=1)|
 |**MRGV_Virus_MGBC_Bacteria_MERGED_All_features_Cage_grouped_Age_regression_Res.tar.gz**|Predictions using MRGV+MGBC All genus features |[Click to download (71.3MB)](https://zenodo.org/records/20405195/files/MRGV_Virus_MGBC_Bacteria_MERGED_All_features_Cage_grouped_Age_regression_Res.tar.gz?download=1)|
 
+Each package can be accessed at `https://zenodo.org/records/20405195`
+
 ## Each package contains
 
 Each package corresponds to `SuperKingdom-wise` analysis with:
