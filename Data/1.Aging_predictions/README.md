@@ -10,10 +10,21 @@ The reference software environment for this analysis is provided separately as:
 
 This YAML file should be uploaded together with this directory if you want users to recreate the original conda environment as closely as possible.
 
+## Data and results packages
+| Data |Description| Link |
+| --- | --- | --- |
+|**MRGV_genus_clr.csv.gz**|Multiplicative zero-handled CLR trainsformed table of MRGV All genus features |[Click to download (67.6MB)](https://zenodo.org/records/20405195/files/MRGV_genus_clr.csv.gz?download=1)|
+|**MGBC_genus_clr.csv**|Multiplicative zero-handled CLR trainsformed table of MGBC All genus features |[Click to download (67.6MB)](https://zenodo.org/records/20405195/files/MGBC_genus_clr.csv?download=1)|
+|**MRGV_Virus_All_features_Cage_grouped_Age_regression_Res.tar.gz**|Predictions using MRGV All genus features |[Click to download (68.7MB)](https://zenodo.org/records/20405195/files/MRGV_Virus_All_features_Cage_grouped_Age_regression_Res.tar.gz?download=1)|
+|**MRGV_Virus_SigMarker_Cage_grouped_Age_regression_Res.tar.gz**|Predictions using MRGV genus aging markers |[Click to download (13.6MB)](https://zenodo.org/records/20405195/files/MRGV_Virus_SigMarker_Cage_grouped_Age_regression_Res.tar.gz?download=1)|
+|**MGBC_Bacteria_All_features_Cage_grouped_Age_regression_Res.tar.gz**|Predictions using MGBC All genus features |[Click to download (3.9MB)](https://zenodo.org/records/20405195/files/MGBC_Bacteria_All_features_Cage_grouped_Age_regression_Res.tar.gz?download=1)|
+|**MRGV_Virus_MGBC_Bacteria_MERGED_All_features_Cage_grouped_Age_regression_Res.tar.gz**|Predictions using MRGV+MGBC All genus features |[Click to download (71.3MB)](https://zenodo.org/records/20405195/files/MRGV_Virus_MGBC_Bacteria_MERGED_All_features_Cage_grouped_Age_regression_Res.tar.gz?download=1)|
+
 ## each package contains
 
-This package corresponds to `All diet group` analysis with:
+Each package corresponds to `SuperKingdom-wise` analysis with:
 
+- diet group: `all diet group`
 - target: `age.approx.wks`
 - leakage control group: `Cage`
 - holdout strategy: cage-aware balanced group holdout
