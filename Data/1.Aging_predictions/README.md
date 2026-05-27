@@ -10,9 +10,9 @@ This YAML file should be uploaded together with this directory if you want users
 
 
 
-## What this package contains
+## What each package contains
 
-This package corresponds to the pooled `ALL` analysis with:
+Each package corresponds to `All diet groups` analysis with:
 
 - target: `age.approx.wks`
 - leakage control group: `Cage`
