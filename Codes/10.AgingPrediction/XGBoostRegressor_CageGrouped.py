@@ -1157,7 +1157,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--holdout-candidates", type=int, default=5000, help="Number of random group holdout candidates.")
     parser.add_argument("--outer-folds", type=int, default=10, help="Outer CV folds. Use 10 for ALL, usually 5 for diet-specific.")
     parser.add_argument("--inner-folds", type=int, default=5, help="Inner CV folds for tuning.")
-    parser.add_argument("--random-state", type=int, default=315, help="Random seed.")
+    parser.add_argument("--random-state", type=int, default=358, help="Random seed.")
 
     # GPU / parallelism
     parser.add_argument("--gpu-id", default=None, help="Physical GPU ID for CUDA_VISIBLE_DEVICES, e.g. 3.")
