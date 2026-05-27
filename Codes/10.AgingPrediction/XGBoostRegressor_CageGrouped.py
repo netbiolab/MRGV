@@ -339,7 +339,7 @@ def balanced_group_holdout_split(
     strata: np.ndarray,
     groups: np.ndarray,
     test_size: float = 0.2,
-    random_state: int = 315,
+    random_state: int = 358,
     n_candidates: int = 5000,
 ) -> Tuple[np.ndarray, np.ndarray, Dict[str, Any]]:
     """
