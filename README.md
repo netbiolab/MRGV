@@ -47,6 +47,12 @@ MRGV provides 109,778 high-confidence viral genomes representing 28,824 species-
 |**MRGV_All_Variant_kraken2DB.tar.gz**|Kraken2 DB for 109,778 All vMAGs|[Click to download (3.4GB)](https://zenodo.org/records/20115989/files/MRGV_All_Variant_kraken2DB.tar.gz?download=1)|
 |**MRGV_MGBC_Combined_kraken2DB.tar.gz**|Kraken2 DB for 28,824 MRGV Repr vMAG + 26,640 MGBC Strain vMAGs|[Click to download (8.5GB)](https://zenodo.org/records/20115989/files/MGBC_26640_CONCAT_MRGV_REPR_kraken2DB.tar.gz?download=1)|
 
+## Data related to Aginig prediction for MRGV anlaysis (Directory: Data)
+### 0.Data
+>  * DO_2997_MICE_METADATA.csv : All metadata for 2997 mice metagenomic samples
+>  * MRGV_Aging_XGBoostRegressor.yml : Conda enviroment configure to reproduce Mouse Aging clock models
+### 1.Aging_predictions
+>  * README_XGBoostRegressor_CageGrouped.md : Description of XGBoostRegressor model training scripts
 
 ## Scripts for MRGV anlaysis (Directory: Codes)
 ### 0.QualityControl
