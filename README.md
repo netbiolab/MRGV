@@ -7,7 +7,7 @@ MRGV provides 109,778 high-confidence viral genomes representing 28,824 species-
 
 **You can access and browse all MRGV data and information in https://doi.org/10.5281/zenodo.20115989**
 #### Citation
->   Kim, H.J. et al (2026). Incorporating viral genome binning in a mouse gut virome catalog enables accurate age prediction _in preparation_
+>   Kim, H.J. et al (2026). A genomic catalog of the mouse gut virome reveals features associated with ageing _Nature communications_
 
 
 
