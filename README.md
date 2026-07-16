@@ -9,7 +9,14 @@ MRGV provides 109,778 high-confidence viral genomes representing 28,824 species-
 #### Citation
 >   Kim, H.J. et al (2026). A genomic catalog of the mouse gut virome reveals features associated with ageing _Nature communications_
 
+### License
 
+This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ## Overview of MRGV
 #### MRGV consists of 109,778 high-confidence vMAGs, represented by 28,824 species-level vOTUs
