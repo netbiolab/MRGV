@@ -22,7 +22,7 @@ This YAML file should be uploaded together with this directory if you want users
 |**MGBC_Bacteria_All_features_Cage_grouped_Age_regression_Res.tar.gz**|Predictions using MGBC All genus features |[Click to download (4.1MB)](https://zenodo.org/records/21430511/files/MGBC_Bacteria_All_features_Cage_grouped_Age_regression_Res.tar.gz?download=1)|
 |**MRGV_Virus_MGBC_Bacteria_MERGED_All_features_Cage_grouped_Age_regression_Res.tar.gz**|Predictions using MRGV+MGBC All genus features |[Click to download (72.1MB)](https://zenodo.org/records/21430511/files/MRGV_Virus_MGBC_Bacteria_MERGED_All_features_Cage_grouped_Age_regression_Res.tar.gz?download=1)|
 
-Each package can be accessed at `https://zenodo.org/records/20405195`
+Each package can be accessed at `https://doi.org/10.5281/zenodo.21430511`
 
 ## Each package contains
 
